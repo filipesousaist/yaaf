@@ -1,6 +1,7 @@
 import os
 import shutil
-from collections import MutableMapping, namedtuple
+from collections import namedtuple
+from collections.abc import MutableMapping
 import numpy as np
 
 import pathlib
